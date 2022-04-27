@@ -1,6 +1,15 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7618597&assignment_repo_type=AssignmentRepo)
-# Nome do projeto
-  Esse projeto busca auxiliar e facilitar o acesso dos idosos no âmbito virtual. No mesmo, visamos fazer um site que, através de textos e vídeos, orientará esse grupo, seus cuidadores e familiares a navegar de maneira efetiva e segura pela internet. 
+![Landing Page Capa](https://s.yimg.com/ny/api/res/1.2/sp6Yi2HCM6ycG3aSxZnIFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYwMDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-01/cebd7360-7fa0-11ec-b6f8-ec9407079822)
+<h1 align="center" id="landing-page">Falta de Acessibilidade de Idosos em Sites</h1> 
+<p align="center" id="badges">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=ATUALIZA%C3%87%C3%83O&message=ABRIL&color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=FERRAMENTAS&message=CANVAS%20e%20github&color=red&style=for-the-badge"/>
+</p>
+
+<p>A cada dia que se passa, a utilização da internet tem se tornado mais necessária. Situações do dia a dia, como buscar informações, fazer compras ou se comunicar com os amigos e com a família são, nessa nova realidade, realizadas digitalmente. Entretanto, as pessoas com mais de 65 anos, as quais não foram acostumadas a utilizar os meios digitais com esses intuitos, sentem dificuldade ao serem imersas nesse contexto.
+Diante disso, torna-se fundamental que existam ferramentas que auxiliem a terceira idade, de forma a ensinar esse grupo a lidar com os meios digitais tão usados na atualidade.
+
+</p>. 
 
 ## Alunos integrantes da equipe
 
