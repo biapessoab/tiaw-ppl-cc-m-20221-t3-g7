@@ -1,18 +1,21 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7618597&assignment_repo_type=AssignmentRepo)
 # Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+  Esse projeto busca auxiliar e facilitar o acesso dos idosos no âmbito virtual. No mesmo, visamos fazer um site que, através de textos e vídeos, orientará esse grupo, seus cuidadores e familiares a navegar de maneira efetiva e segura pela internet. 
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Artur Ricardo Martins Drummond Azevedo
+* Davi de Lima Vieira Lacerda
+* Ana Beatriz Pessoa Braz
+* Brenno Augusto Herculano dos Santos
+* Eduardo Oliveira Coelho
+* Beatriz Fulgencio da Cunha Menezes
+* Gabriel Ribeiro Todt Ferreira
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Vieira Carneiro
+* Simone de Assis Alves da Silva
 
 ## Instruções de utilização
 
